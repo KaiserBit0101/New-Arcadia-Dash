@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 76f5fa2ab0819e5499c7eec37a5128cd
+  - enabled: 1
+    path: Assets/Scenes/Controls.unity
+    guid: f9b330d3a317c54439814c3280a2d875
+  - enabled: 1
+    path: Assets/Scenes/ForestRun.unity
+    guid: d3c1784c98a45e044bc246a615a00d69
+  m_configObjects: {}
